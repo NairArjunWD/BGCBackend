@@ -1,0 +1,12 @@
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/bin/Debug/netcoreapp3.1/BGCBackend.deps.json
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/bin/Debug/netcoreapp3.1/BGCBackend.runtimeconfig.json
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/bin/Debug/netcoreapp3.1/BGCBackend.runtimeconfig.dev.json
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/bin/Debug/netcoreapp3.1/BGCBackend.dll
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/bin/Debug/netcoreapp3.1/BGCBackend.pdb
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.AssemblyInfo.cs
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.dll
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.pdb
+/Users/arjunnair/Desktop/csharp/projects/BGCBackend/obj/Debug/netcoreapp3.1/BGCBackend.genruntimeconfig.cache
